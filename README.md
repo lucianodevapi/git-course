@@ -24,7 +24,7 @@
 ### stash - Rever alterações recentes momentaneamente e armazena tais alterações em memória para recuperação das alterações posteriormente
 ### restore --staged README.md - Retira do commit
 ### git branch -M main - Altera a branch
-### git remote add origin https://github.com/lucianodevapi/curso-git.git - Configura o repositório local com o repositório remoto
+### git remote add origin https://github.com/lucianodevapi/git-course.git - Configura o repositório local com o repositório remoto
 ### git push -u origin main - Efetua o commit remoto
 
 # Extentions
