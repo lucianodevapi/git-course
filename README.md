@@ -1,4 +1,4 @@
-# Course GIT
+# Primeiro curso de git que está valendo a pena.
 
 ## Commands Config
 
