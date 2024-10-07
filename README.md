@@ -14,7 +14,7 @@
 ### checkout - Navega nas branchs
 ### status - Checa o que há de novo / mudar
 ### clone - Baixa um repositório remoto para um repositório local
-### add - Rastrear e adicionar arquivos e mudanças em relação ao que já hávia registrado antes  9stage)
+### add - Rastrear e adicionar arquivos e mudanças em relação ao que já hávia registrado antes  (stage)
 ### commit - Salva alterações em arquivos no repositório local
 ### push - Faz upload a partir do repositório local enviando ao repositório remoto
 ### pull - Faz o download de alterações a partir do repositório remoto até o repositório local
@@ -39,5 +39,9 @@
 ### git checkout -b "nova -feture" - Cria uma nova branch
 * criar um novo arquivo e o adicione na nova branch.
 * commit o novo arquivo
+
+# Resolver conflitos na prática
+
+
 
 
