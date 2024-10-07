@@ -27,6 +27,7 @@
 ### git branch -M main - Altera a branch
 ### git remote add origin https://github.com/lucianodevapi/git-course.git - Configura o repositório local com o repositório remoto
 ### git push -u origin main - Efetua o commit remoto
+### git push --set-upstream origin main - Efetua o commit remoto
 ### git blame README.md - Exibe informações sobre as ultimas alterações no arquivo.
 
 # Extentions
