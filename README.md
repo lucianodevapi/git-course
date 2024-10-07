@@ -32,6 +32,7 @@
 
 ### git stash - Guarda as alterações
 ### git stash pop -  Retorna as alterações
+### git push -d origin outra-feture - Exclui uma branch
 
 # Extentions
 ## - git grapth
