@@ -34,6 +34,13 @@
 ### git stash pop -  Retorna as alterações
 ### git push -d origin outra-feture - Exclui uma branch
 
+### git revert - Cria um novo commit sem as alterações
+
+
+
+### git reset - Exclui o comiit
+
+
 # Extentions
 ## - git grapth
 ## - git history
