@@ -37,5 +37,6 @@
 
 ### git checkout -b "nova -feture" - Cria uma nova branch
 * criar um novo arquivo e o adicione na nova branch.
+* commit o novo arquivo
 
 
