@@ -34,4 +34,5 @@
 ## - git history
 
 # branchs
+### git checkout -b "nova -feture" - Cria uma nova branch
 
