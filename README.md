@@ -30,6 +30,9 @@
 ### git push --set-upstream origin main - Efetua o commit remoto
 ### git blame README.md - Exibe informações sobre as ultimas alterações no arquivo.
 
+### git stash - Guarda as alterações
+### git stash pop -  Retorna as alterações
+
 # Extentions
 ## - git grapth
 ## - git history
@@ -41,6 +44,13 @@
 * commit o novo arquivo
 
 # Resolver conflitos na prática
+
+### git branch main - Altera para a branch principal
+### git merge novo-fix - Efetua o merge da branch novo-fix com a branch principal
+### git push -d origin novo-fix - Deleta uma branch
+
+
+
 
 
 
